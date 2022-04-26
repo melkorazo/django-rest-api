@@ -1,6 +1,6 @@
 # Django REST Framework - API Sorteo
 
-Prueba técnica utilizando DRF + Celery.
+DRF + Celery
 
 _Antes de comenzar a utilizar la API se debe considerar utilizar autenticación básica con los datos:_
 
